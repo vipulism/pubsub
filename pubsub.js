@@ -1,6 +1,6 @@
 
 // created by vipul sharma on 27th August 2016
-// Description@ this function is use to subscribe and public things like andgular $emit
+// Description@ this function is use to subscribe and public things like angularjs $emit
 
 var events = {
   events: {},
